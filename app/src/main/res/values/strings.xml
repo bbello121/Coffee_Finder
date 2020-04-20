@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Coffee Finder</string>
+    <string name="breakingTitle">Breaking Wave Coffee</string>
+    <string name="breakingAddress">1310 Main St, Sarasota, FL 34236</string>
+    <string name="breakingLogo">Breaking Wave Coffee Logo</string>
+    <string name="cleverTitle">The Clever Cup</string>
+    <string name="cleverLogo">The Clever Cup Logo</string>
+    <string name="cleverAddress">6530 Gateway Avenue, Sarasota, FL 34231</string>
+    <string name="foundationTitle">Foundation Coffee</string>
+    <string name="foundationLogo">Foundation Coffee Logo</string>
+    <string name="foundationAddress">10020 Carr Rd, Riverview, FL 33569</string>
+    <string name="mountainTitle">Mountain Comforts Coffee Cafe</string>
+    <string name="mountainLogo">Mountain Comforts Coffee Cafe Logo</string>
+    <string name="mountainAddress">3550 53rd Ave. W, Bradenton, FL 34210</string>
+</resources>
